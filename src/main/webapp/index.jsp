@@ -6,7 +6,5 @@
   
   <h2> Call Us : + 91 - 998 501 4433 </h2>
 
-<h2> I love you RAJA !!!!</h2>
-
 </body>
 </html>
